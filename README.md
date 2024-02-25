@@ -1,12 +1,10 @@
 ## **Olá! Eu sou a Luiza** 
 
-👜 Estou trabalhando como Estagiária de Suporte em tecnologia 
-🌱 Estou estudando sobre Desenvolvimento Web focado em programação Front-End
-📫 Me contate pelo email: sluiza8.ls@gmail.com
-<div>
-<a href="https://www.linkedin.com/in/luiza-almeida-da-silva-b06167266?utm_source=share&utm_cam-paing=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-LinkedIn</a>
-</div>
+👜 Estou trabalhando como Estagiária de Suporte em tecnologia <br>
+🌱 Estou estudando sobre Desenvolvimento Web focado em programação Front-End <br>
+📫 Me contate: sluiza8.ls@gmail.com | <a  href="https://www.linkedin.com/in/luiza-almeida-da-silva-b06167266?utm_source=share&utm_cam-paing=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+
+
 
 ## Tenho conhecimento nas seguintes linguagens e softwares:
 
